@@ -22,7 +22,7 @@
     "@tooling/tsconfig": "workspace:*",
     "@vitejs/plugin-vue": "^5.1.4",
     "unplugin-auto-import": "^0.18.3",
-    "vite": "^5.4.8",
+    "vite": "^4.5.14",
     "vite-svg-loader": "^5.1.0",
     "vue": "^3.5.11",
     "vue-router": "^4.4.5",
