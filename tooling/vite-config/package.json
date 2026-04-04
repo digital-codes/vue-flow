@@ -9,7 +9,7 @@
     "@tooling/eslint-config": "workspace:*",
     "@tooling/tsconfig": "workspace:*",
     "@vitejs/plugin-vue": "^4.4.0",
-    "defu": "^6.1.2",
+    "defu": "^6.1.5",
     "vite": "^4.4.11"
   }
 }
