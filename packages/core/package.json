@@ -88,7 +88,7 @@
     "@types/d3-zoom": "^3.0.8",
     "@vitejs/plugin-vue": "^4.4.0",
     "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.31",
+    "postcss": "^8.5.10",
     "postcss-cli": "^10.1.0",
     "postcss-nested": "^6.0.1",
     "vite": "^4.4.11",
